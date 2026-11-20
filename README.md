@@ -1,4 +1,6 @@
-# HashWizard
+# 🔓 HashWizard
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3fb950?logo=python# HashWizardlogoColor=white)](https://python.org) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative# HashWizardlogoColor=white)](LICENSE) [![Security](https://img.shields.io/badge/Category-Security-8b5cf6)](https://github.com/Leechuihui/HashWizard)
 
 Interactive password hash cracking tool in pure Python — paste a hash, auto-detect its type, crack it with hashcat or the built-in zero-dependency engine. Cross-platform.
 （交互式哈希破解工具：粘贴哈希 → 自动识别类型 → 用 hashcat 或内置零依赖引擎破解，跨平台）
